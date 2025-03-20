@@ -44,6 +44,8 @@ This project is a visually immersive and interactive website about space explora
 
 
 
+![image](https://github.com/user-attachments/assets/bd5d9887-79ea-44a2-816f-9d4d1e7c33a4)
+![image](https://github.com/user-attachments/assets/de9f01e8-0e05-43c6-b58a-20ef0f6883e5)
 ![image](https://github.com/user-attachments/assets/8f2db94b-90b0-4f1f-a4ab-f62168e0d359)
 ![image](https://github.com/user-attachments/assets/0401a155-63f7-4672-8dad-91c79a270fc9)
 ![image](https://github.com/user-attachments/assets/8af9a3af-8816-4dd6-9d4b-0fcb4c0d45c0)
