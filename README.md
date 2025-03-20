@@ -3,11 +3,7 @@
 # Space Exploration Website
 
 ## Description
-This project is a visually immersive and interactive website about space exploration. It features animated backgrounds, smooth transitions, and a structured layout to enhance user experience. The site consists of three main pages:
-
-1. **Home (Index.tsx)** - Introduces space exploration with an animated starry background and featured destinations.
-2. **Contact (Contact.tsx)** - Provides a contact form for users to reach out.
-3. **About (About.tsx)** - Shares information about the mission and vision of space exploration.
+This project is a visually immersive and interactive website about space exploration. It features animated backgrounds, smooth transitions, and a structured layout to enhance user experience. 
 
 ## Features
 - Animated starry background
@@ -16,6 +12,7 @@ This project is a visually immersive and interactive website about space explora
 - Interactive destination cards
 - Contact form with toast notifications
 - Navigation bar and footer for easy navigation
+- ...
 
 ## Technologies Used
 - **React** (with functional components and hooks)
@@ -44,8 +41,6 @@ This project is a visually immersive and interactive website about space explora
 
 
 
-![image](https://github.com/user-attachments/assets/bd5d9887-79ea-44a2-816f-9d4d1e7c33a4)
-![image](https://github.com/user-attachments/assets/de9f01e8-0e05-43c6-b58a-20ef0f6883e5)
 ![image](https://github.com/user-attachments/assets/8f2db94b-90b0-4f1f-a4ab-f62168e0d359)
 ![image](https://github.com/user-attachments/assets/0401a155-63f7-4672-8dad-91c79a270fc9)
 ![image](https://github.com/user-attachments/assets/8af9a3af-8816-4dd6-9d4b-0fcb4c0d45c0)
